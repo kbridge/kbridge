@@ -1,4 +1,8 @@
-Living a quiet life.
+I've been obsessed with computers since I was a kid.
+
+Now living a quiet life.
+
+DON'T FOLLOW ME PLEASE. You will soon be overwhelmed by the frequent starring notifications.
 
 <!--
 **kbridge/kbridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
