@@ -4,11 +4,11 @@ DON'T FOLLOW ME
 You will soon be overwhelmed by the frequent starring notifications.
 ```
 
+**The software infrastructure of our world is built by countless open source contributors.**
+
 I've been obsessed with computers since I was a kid.
 
 Now living a quiet life.
-
-
 
 <!--
 **kbridge/kbridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
