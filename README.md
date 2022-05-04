@@ -1,5 +1,5 @@
 **DON'T FOLLOW ME**  
-*Or you will soon be overwhelmed by the frequent starring notifications.*
+*Or you will soon be flooded by countless starring notifications.*
 
 <!--
 **kbridge/kbridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
